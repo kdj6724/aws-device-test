@@ -1,0 +1,4 @@
+// the configured options and settings for aws test
+#define AWSTEST_VERSION_MAJOR @AWSTEST_VERSION_MAJOR@
+#define AWSTEST_VERSION_MINOR @AWSTEST_VERSION_MINOR@
+#cmakedefine USE_AWS_SDK
